@@ -1,6 +1,6 @@
 module Samurai
-  class DashboardController < ApplicationController
-    def index
+    class DashboardController < ApplicationController
+      def index
+      end
     end
-  end
 end
